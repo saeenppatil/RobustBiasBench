@@ -16,7 +16,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 RobustBiasBench/
@@ -70,7 +70,7 @@ RobustBiasBench/
 
 ---
 
-## 📚 Data Sources & Licensing
+## Data Sources & Licensing
 
 All datasets are licensed for academic use:
 
