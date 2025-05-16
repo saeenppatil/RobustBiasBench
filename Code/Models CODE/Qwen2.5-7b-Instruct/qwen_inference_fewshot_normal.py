@@ -33,7 +33,7 @@ output_path = f"{DRIVE_PATH}/bias_classification_9shot_results.csv"
 
 # Login to Hugging Face
 from huggingface_hub import login
-login(token="REMOVED_SECRETtamLssrXWMvQGDXEsALoujghfRdYRsoOlq")
+login(token="")
 
 # Define model and device
 model_name = "Qwen/Qwen2.5-7B-Instruct"
