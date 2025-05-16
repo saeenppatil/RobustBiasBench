@@ -1,0 +1,13 @@
+Federal Register — Materials from the Federal Register are in the public domain and may be freely reproduced or republished, as per 1 CFR §2.6.
+
+Policy Agendas Project (Comparative Agendas): Republican Party Platform Dataset — All materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Policy Agendas Project (Comparative Agendas): Democratic Party Platform Dataset — All materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Policy Agendas Project (Comparative Agendas): Congressional Bills Dataset — All materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Policy Agendas Project (Comparative Agendas): Public Laws Dataset — All materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+BillSum Dataset — The dataset and all accompanying code are licensed under the Creative Commons Attribution 4.0 License and Apache 2.0 License.
+
+The SPRC19: State Policy Responses to COVID-19 Dataset - The dataset is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
